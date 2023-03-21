@@ -2,8 +2,9 @@
 <img src=https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,5,7&height=100&section=header&text=About%20Me%20👨‍💻&animation=fadeIn&fontSize=60&/>
 </p>
 
-<img src="https://giphy.com/embed/jrutBd1N7ZhsINAPzs" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/wow-amazing-jake-jrutBd1N7ZhsINAPzs">via GIPHY</a></p>
-
+<p align="center">
+<img src="https://media2.giphy.com/media/jrutBd1N7ZhsINAPzs/giphy.gif?cid=ecf05e47r271ncvrq4vpw0vc903731olt7d8tkgrjs1svipr&rid=giphy.gif&ct=g"></img>
+</p>
 
 <h1 align="center">Before that, let's connect!</h1>
 
@@ -20,7 +21,6 @@
 [![](https://visitcount.itsvg.in/api?id=muhdimranh&icon=8&color=10)](https://visitcount.itsvg.in)
 
 
-
 - 🔭 I’m currently working on **my final year project.**
 
 - 🌱 I’m currently learning **MongoDB, Django, Pyscript and many more!**
@@ -30,6 +30,11 @@
 - 📫 How to reach me **muhdimran190@gmail.com**
 
 - ⚡ Fun fact **I always want to learn more.**
+
+<p align="right">
+<img src="https://media2.giphy.com/media/jrutBd1N7ZhsINAPzs/giphy.gif?cid=ecf05e47r271ncvrq4vpw0vc903731olt7d8tkgrjs1svipr&rid=giphy.gif&ct=g"></img>
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
