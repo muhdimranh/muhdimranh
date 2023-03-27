@@ -11,7 +11,7 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/imran-hakimi-29113023b/"><img height="50" src="https://cdn-icons-png.flaticon.com/512/4494/4494498.png"/></a>
 <a href="https://www.instagram.com/muhdimranh/"><img height="50" src="https://cdn-icons-png.flaticon.com/512/4494/4494489.png"/></a>
-<a href="https://www.reddit.com/user/muhdimranh"><img height="50" src="https://cdn-icons-png.flaticon.com/512/4494/4494501.png"/></a>
+<a href="https://www.reddit.com/user/"><img height="50" src="https://cdn-icons-png.flaticon.com/512/4494/4494501.png"/></a>
 <a href="https://discordapp.com/users/482241894026313729"><img height="50" src="https://cdn-icons-png.flaticon.com/512/4494/4494737.png"/></a>
 </div>
  
