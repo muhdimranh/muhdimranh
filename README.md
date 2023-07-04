@@ -20,7 +20,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=muhdimranh&icon=8&color=10)](https://visitcount.itsvg.in)
 
-<img align="right" src="https://media2.giphy.com/media/jrutBd1N7ZhsINAPzs/giphy.gif?cid=ecf05e47r271ncvrq4vpw0vc903731olt7d8tkgrjs1svipr&rid=giphy.gif&ct=g"></img>
 
 
 - 🔭 I’m currently working on **my final year project.**
