@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://media0.giphy.com/media/Er3QVX48nt5ok/giphy.gif?cid=ecf05e47r2z0wx9ibt17bsxtxnp5whikxzkn1hm9anzv74p2&rid=giphy.gif&ct=g" height=200></img>
+<img src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" height=200></img>
 </p>
 
 <h1 align="center">Before that, let's connect!</h1>
@@ -21,6 +21,16 @@
 [![](https://visitcount.itsvg.in/api?id=muhdimranh&icon=8&color=10)](https://visitcount.itsvg.in)
 
 
+
+## My latest project
+
+1. [Akmal Rental Room Management System](https://github.com/muhdimranh/Akmal-Rental-RoomManagementSystem)
+
+2. [Reddit Sentiment Analysis on Anwar Ibrahim](https://github.com/muhdimranh/Reddit-Sentiment-Analysis)
+
+
+
+## About Me
 
 - 🔭 I’m currently working on **my final year project.**
 
